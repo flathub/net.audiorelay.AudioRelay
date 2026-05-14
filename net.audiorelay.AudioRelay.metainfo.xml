@@ -3,7 +3,9 @@
   <id>net.audiorelay.AudioRelay</id>
 
   <name>AudioRelay</name>
-  <developer_name>Asapha Halifa</developer_name>
+  <developer id="net.audiorelay">
+    <name>Asapha Halifa</name>
+  </developer>
   <summary>Stream audio between your devices</summary>
 
   <project_license>LicenseRef-proprietary</project_license>
@@ -11,13 +13,13 @@
 
   <launchable type="desktop-id">net.audiorelay.AudioRelay.desktop</launchable>
 
-  <url type="homepage">https://audiorelay.net/</url>
-  <url type="bugtracker">https://community.audiorelay.net/c/bug-reports/</url>
+  <url type="homepage">https://audiorelay.net</url>
+  <url type="bugtracker">https://community.audiorelay.net/c/bug-reports/11</url>
   <url type="faq">https://docs.audiorelay.net/faq</url>
-  <url type="translate">https://translations.audiorelay.net/</url>
+  <url type="translate">https://translations.audiorelay.net</url>
 
   <description>
-    <p>NOTE: This wrapper is not verified by, affiliated with, or supported by Asapha Halifa.</p>
+    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by Asapha Halifa.**</p>
     <p>Stream your music, listen to your movies, hear your games or use your phone as mic.</p>
     <p>Features:</p>
     <ul>
@@ -29,7 +31,7 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/cry0ice/flathub/1e3bbfbb3b3407eb2c0db8b600ce3f68ac9001c4/screenshot.png</image>
+      <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9uZXQvYXVkaW9yZWxheS9BdWRpb1JlbGF5L2UxODAwNjFmOGZjZmY4MjM4OGMwZGExY2FiOWJmZmI1L3NjcmVlbnNob3RzL2ltYWdlLTFfb3JpZy5wbmc</image>
     </screenshot>
   </screenshots>
   <categories>
